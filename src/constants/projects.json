@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "INTELEKBRESLEBEW",
+    "description": "The low interest in reading because of low awareness and high book prices is why we created this online book rental website. It uses digital technology to make access easy and efficient. The goal is to encourage people to read more and make literature available to everyone, no matter where they live or their economic status.",
+    "thumbnail": "images/image.png",
+    "deployed": "https://missatrox44.github.io/git-me-there",
+    "github": "https://github.com/missatrox44/git-me-there",
+    "date": "July 2022"
+  },
+  {
+    "id": "2",
+    "title": "KAMIS",
+    "description": "kamiss - We Want to Be Healthy is a digital platform dedicated to raising awareness about mental and physical health. We provide information, resources, and tools to help individuals achieve optimal well-being. With discussion forums, expert articles, and educational content on healthy lifestyles, Kamiss is committed to empowering the community in their health journey. Join us in creating a positive and supportive environment where everyone feels valued and heard.",
+    "thumbnail": "images/kamis.png",
+    "github": "https://github.com/missatrox44/Fact-Fiction",
+    "deployed": "https://factorfiction.herokuapp.com",
+    "date": "August 2022"
+  }
+]

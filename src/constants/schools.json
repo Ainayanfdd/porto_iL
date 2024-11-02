@@ -1,0 +1,14 @@
+[{
+  "id": 1,
+  "degree": "senior high school",
+  "university": "SMA NEGERI 1 BATAM",
+  "timePeriod": "2020 - 2023",
+  "img": "images/longhorns.jpg"
+},
+{
+  "id": 2,
+  "degree": "university",
+  "university": "batam state polytechnic",
+  "timePeriod": "2023 - NOW",
+  "img": "images/pick.png"
+}]
