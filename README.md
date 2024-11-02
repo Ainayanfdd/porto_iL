@@ -2,13 +2,6 @@
 
 Welcome to the Vite Portfolio repository, a project that showcases my professional journey, skills, and projects. The website has been crafted with love, passion, and a touch of personal flair. From the initial logo that uniquely combines my initials with elements representing my love for the trumpet and fascination with octopuses, to the detailed UI components, this portfolio reflects who I am both as a developer and an individual.
 
-
-### 📱 Mobile Optimized
-
-This site has been meticulously designed to ensure an optimal viewing experience across devices. For a quick peek into the mobile navigation, check out this GIF:
-
-![Mobile Navigation GIF](./public/images/portfolio-demo.gif)
-
 ### 🔧 Built With
 
 - [**React**](https://react.dev/): A powerful library for building UI components.
